@@ -31,8 +31,6 @@ cellpadding="4" border="5" bgcolor="cyan">
  <tr align="center">
  <th bgcolor="yellow">Day/Time</th>
  <th bgcolor="yellow">Monday</th>
-timetable/README.md at main · HARININAGAPPAN/... https://github.com/HARININAGAPPAN/timetable/blob...
-4 of 6 22/11/23, 23:42
  <th bgcolor="yellow">Monday</th>
  <th bgcolor="yellow">Tuesday</th>
  <th bgcolor="yellow">Wednesday</th>
