@@ -26,7 +26,7 @@ width="540">
  </center>
  <table align="center" width="540" cellspacing="2" 
 cellpadding="4" border="5" bgcolor="cyan">
- <caption><br>SLOT TIME TABLE - HARINI(23013709)
+ <caption><br>SLOT TIME TABLE - SAI DARSHINI R S (2007938)
 </caption></caption>
  <tr align="center">
  <th bgcolor="yellow">Day/Time</th>
